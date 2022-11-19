@@ -10,7 +10,7 @@
 
 <hr>
 
-<br>
+
 <p align="center">
     <a href="https://github.com/asifrazaansari/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asifrazaansari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrazaansari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -28,6 +28,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+
 ### Languages and Tools
 
 <p align="left">
@@ -38,7 +39,7 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
+</p>
 
 
 ### Socials - Connect with me:
