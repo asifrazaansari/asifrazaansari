@@ -25,6 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifrazaansari&count_private=true&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="asifrazaansari" /></p>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ### Languages and Tools
 
 <p align="left">
