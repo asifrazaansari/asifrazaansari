@@ -5,7 +5,6 @@
 
 *   💬 Ask me about **JavaScript, NodeJS, MongoDB, ReactJS and Six Sigma**
 *   ✉️  You can contact me at [razaasif58574@gmail.com](mailto:razaasif58574@gmail.com)
-*   🚀  I'm currently working as a Backend Developer Trainee and Teaching Assistant at FunctionUp
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 
