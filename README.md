@@ -1,51 +1,94 @@
 <h1 align="center">Hi 👋, I'm Asif Raza</h1>
-<h3 align="center">Software Developer | Lean Six Sigma Green Belt.</h3>
+<h3 align="center">Software Developer & GenAI Architect · Building intelligent agents, voice AI systems, and agentic workflows</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifrazaansari&label=Profile%20views&color=0e75b6&style=flat" alt="asifrazaansari" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asifrazaansari&label=Profile%20views&color=0e75b6&style=flat" alt="asifrazaansari" />
+</p>
 
-*   💬 Ask me about **JavaScript, NodeJS, MongoDB, ReactJS and Six Sigma**
-*   ✉️  You can contact me at [razaasif58574@gmail.com](mailto:razaasif58574@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a developer
+---
 
+### 🧠 What I work on
 
-<hr>
+- 🤖 **Multi-agent orchestration** with LangGraph & LangChain — stateful agent graphs, supervisor patterns, human-in-the-loop flows
+- 🎙️ **Voice AI** — end-to-end STT/TTS pipelines for real-time SME assistants (built *Mystore Mitra* in collaboration with Google on Vertex AI)
+- 🔍 **RAG pipelines** — vector search, dynamic facet filtering, MongoDB Atlas + Vertex AI embeddings
+- 🛒 **E-commerce agents** — embeddable site agents for merchants with ONDC/UCP protocol integrations
+- 🔌 **MCP/A2A protocol** implementations in Node.js
+- 🧩 **Agent observability** — custom LangChain `BaseCallbackHandler` tracing LLM calls, tool invocations, token usage & cost per run
 
-<br>
+---
+
+### 🛠️ Tech Stack
+
+**AI / GenAI**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+**Data**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 🚀 Notable Projects
+
+| Project | Description |
+|---|---|
+| **Mystore Mitra** | Voice-enabled SME assistant built with Google on Vertex AI — helping merchants manage their store via natural language |
+| **Merchant Site Agents** | Embeddable AI agents for e-commerce merchants with ONDC/UCP protocol integrations |
+| **Agent Observability System** | Two-collection MongoDB schema (runs + steps) tracking LLM calls, tool invocations, token usage & cost using LangChain's BaseCallbackHandler |
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-    <a href="https://github.com/asifrazaansari/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asifrazaansari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrazaansari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/asifrazaansari/github-readme-streak-stats">
+    <img title="Streak stats" alt="asifrazaansari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asifrazaansari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/asifrazaansari/github-readme-stats"><img alt="Asif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asifrazaansari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/asifrazaansari/github-readme-stats"><img alt="Asif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrazaansari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-### Languages and Tools
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-
-
-### Socials - Connect with me:
-
-<p align="left">
-<a href="https://discord.com/users/ASIF RAZA#6199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/asifrazaansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/asifrazaansari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.leetcode.com/asifrazaansari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" /></a>
+<p align="center">
+  <a href="https://github.com/asifrazaansari/github-readme-stats">
+    <img alt="Asif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asifrazaansari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/asifrazaansari/github-readme-stats">
+    <img alt="Asif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrazaansari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/asifrazaansari/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/asifrazaansari" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+</p>
+
+- 💬 Ask me about **LangGraph, multi-agent systems, RAG, Voice AI, MCP/A2A protocols, Node.js, MongoDB**
+- ✉️ Reach me at [razaasif58574@gmail.com](mailto:razaasif58574@gmail.com)
+- 🤝 Open to **collaborating on AI agent projects, agentic workflows, and voice AI systems**
